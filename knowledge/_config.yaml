@@ -1,0 +1,3 @@
+# Optional tie-break order for source participants. All names are fictional.
+owner_priority: [Demo Librarian, Demo Coordinator]
+fallback_owner: null
